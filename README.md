@@ -4,7 +4,7 @@ vim-go
 vim-pathogen bundle for golang syntax highlighting
 
 Ubuntu 12.04 comes with prebuilt packages for go and go syntax
-highlighting and you can install go easily with
+highlighting. You can install easily with
 
     sudo apt-get install golang
 
@@ -22,3 +22,9 @@ you can just use following commands:
 
 Based on the instructions from
 [this blog](http://collectingknowledge.blogspot.com/2013/02/using-go-in-ubuntu-1204.html)
+
+## See also
+
+@ftharsln created a [*full featured* golang vim IDE](https://github.com/fatih/vim-go)
+with identical ;-) name. Give it a try if you are looking for an IDE!
+
